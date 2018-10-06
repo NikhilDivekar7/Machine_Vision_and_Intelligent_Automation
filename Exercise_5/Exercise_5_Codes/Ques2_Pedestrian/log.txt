@@ -1,0 +1,133 @@
+Frame number: 1 
+Pedestrian detected at x = 1030 and y = 180 
+Frame number: 1 
+Pedestrian detected at x = 250 and y = 381 
+Number of people in the frame: 2
+
+Frame number: 2 
+Pedestrian detected at x = 778 and y = 192 
+Frame number: 2 
+Pedestrian detected at x = 533 and y = 172 
+Frame number: 2 
+Pedestrian detected at x = 1030 and y = 180 
+Frame number: 2 
+Pedestrian detected at x = 248 and y = 386 
+Number of people in the frame: 4
+
+Frame number: 3 
+Pedestrian detected at x = 780 and y = 186 
+Frame number: 3 
+Pedestrian detected at x = 1033 and y = 236 
+Frame number: 3 
+Pedestrian detected at x = 244 and y = 382 
+Number of people in the frame: 3
+
+Frame number: 4 
+Pedestrian detected at x = 778 and y = 192 
+Frame number: 4 
+Pedestrian detected at x = 1034 and y = 238 
+Frame number: 4 
+Pedestrian detected at x = 240 and y = 382 
+Number of people in the frame: 3
+
+Frame number: 5 
+Pedestrian detected at x = 780 and y = 192 
+Frame number: 5 
+Pedestrian detected at x = 1250 and y = 200 
+Frame number: 5 
+Pedestrian detected at x = 1034 and y = 235 
+Frame number: 5 
+Pedestrian detected at x = 533 and y = 174 
+Frame number: 5 
+Pedestrian detected at x = 234 and y = 391 
+Number of people in the frame: 5
+
+Frame number: 6 
+Pedestrian detected at x = 658 and y = 192 
+Frame number: 6 
+Pedestrian detected at x = 779 and y = 191 
+Frame number: 6 
+Pedestrian detected at x = 1244 and y = 193 
+Frame number: 6 
+Pedestrian detected at x = 1030 and y = 180 
+Frame number: 6 
+Pedestrian detected at x = 230 and y = 388 
+Number of people in the frame: 5
+
+Frame number: 7 
+Pedestrian detected at x = 658 and y = 192 
+Frame number: 7 
+Pedestrian detected at x = 780 and y = 192 
+Frame number: 7 
+Pedestrian detected at x = 1242 and y = 194 
+Frame number: 7 
+Pedestrian detected at x = 1035 and y = 239 
+Frame number: 7 
+Pedestrian detected at x = 534 and y = 176 
+Frame number: 7 
+Pedestrian detected at x = 226 and y = 394 
+Number of people in the frame: 6
+
+Frame number: 8 
+Pedestrian detected at x = 504 and y = 186 
+Frame number: 8 
+Pedestrian detected at x = 779 and y = 192 
+Frame number: 8 
+Pedestrian detected at x = 658 and y = 194 
+Frame number: 8 
+Pedestrian detected at x = 1241 and y = 196 
+Frame number: 8 
+Pedestrian detected at x = 1035 and y = 237 
+Frame number: 8 
+Pedestrian detected at x = 229 and y = 384 
+Number of people in the frame: 6
+
+Frame number: 9 
+Pedestrian detected at x = 657 and y = 192 
+Frame number: 9 
+Pedestrian detected at x = 780 and y = 194 
+Frame number: 9 
+Pedestrian detected at x = 1035 and y = 235 
+Frame number: 9 
+Pedestrian detected at x = 226 and y = 393 
+Number of people in the frame: 4
+
+Frame number: 10 
+Pedestrian detected at x = 782 and y = 190 
+Frame number: 10 
+Pedestrian detected at x = 658 and y = 194 
+Frame number: 10 
+Pedestrian detected at x = 1035 and y = 238 
+Frame number: 10 
+Pedestrian detected at x = 224 and y = 386 
+Number of people in the frame: 4
+
+Frame number: 11 
+Pedestrian detected at x = 782 and y = 194 
+Frame number: 11 
+Pedestrian detected at x = 658 and y = 194 
+Frame number: 11 
+Pedestrian detected at x = 1036 and y = 238 
+Frame number: 11 
+Pedestrian detected at x = 216 and y = 392 
+Number of people in the frame: 4
+
+Frame number: 12 
+Pedestrian detected at x = 782 and y = 190 
+Frame number: 12 
+Pedestrian detected at x = 660 and y = 194 
+Frame number: 12 
+Pedestrian detected at x = 1226 and y = 202 
+Frame number: 12 
+Pedestrian detected at x = 1036 and y = 239 
+Frame number: 12 
+Pedestrian detected at x = 205 and y = 401 
+Number of people in the frame: 5
+
+Frame number: 13 
+Pedestrian detected at x = 660 and y = 194 
+Frame number: 13 
+Pedestrian detected at x = 1035 and y = 239 
+Frame number: 13 
+Pedestrian detected at x = 196 and y = 392 
+Number of people in the frame: 3
